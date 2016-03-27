@@ -4,6 +4,6 @@
 
 apt-get -y update
 
-apt-get -y install curl
+apt-get -y install curl debconf-utils
 
 # You can install anything you need here.
